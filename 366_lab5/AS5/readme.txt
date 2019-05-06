@@ -1,0 +1,3 @@
+	I didn't include the rndmwalk_policy_evaluation.py here. However, I have save the values in TrueValueFunction.npy and I can have access to it by load function.
+	For the programming part (question 4),please run rmse_exp.py. It may take 4 mins. It will generate a figure at the end
+	For the bonus part,please run grid.exp.py. It takes less than 10 seconds. Since there are only 10 runs, reproducting a similar picture as I got may take several times.
